@@ -1,0 +1,35 @@
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.container h1 {
+    text-align: center;
+}
+
+.container hr {
+    border: 1px solid #eee;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    width: 25%;
+}
+
+#msg {
+    margin-top: 30px;
+    text-align: center;
+}
