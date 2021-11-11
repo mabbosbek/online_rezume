@@ -19,7 +19,7 @@ let phoneNumber = prompt("Telefon raqamingizni kiriting:");
 document.getElementById("phoneNumber").innerHTML = phoneNumber;
 
 // Jadvalga rang berish
-let colorTable = prompt("Telefon raqamingizni kiriting:","white");
+let colorTable = prompt("Jadval fon rangini kiriting:","white");
 document.getElementById("table").style.backgroundColor = colorTable;
 
 // Barcha ma'lumotlarni to'g'riligini tasdiqlash
